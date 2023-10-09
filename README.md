@@ -176,3 +176,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md).
 ## Contributors ✨
 
 Thanks goes to the wonderful people listed in [AUTHORS.md](./AUTHORS.md) 🎉
+
+
+https://github.com/LearningOS/rust-rustlings-rabibit
+
